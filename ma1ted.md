@@ -1,13 +1,13 @@
 ---
 name: "@ma1ted"
-project: "Active Self-Stabilising Arm"
+project: "Active Self-Stabilising Gimbal"
 ---
 
 # Active Self-Stabilising Arm
 
 ## Summary
 
-What are you going to build? What does it do? Why are you excited to build it?
+Being British, carrying mugs of tea is a daily occurance. It's absolutely mission-critical to deliver the beverage to the recipient without a drop spilled. Instead of putting less tea in the mugs, I'm going to build a three-axis gimbal to keep mugs level while in transit.
 
 ## Plan
 
